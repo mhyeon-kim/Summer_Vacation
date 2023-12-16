@@ -1,0 +1,21 @@
+[
+	{
+		"type" : "highlight",
+		"name" : "",
+		"content" : "",
+		"image" : "image/center/물망초를 꽂는 지천의 손.jpg"
+	},
+
+	{
+		"type" : "black",
+		"name" : "",
+		"content" : "",
+		"image" : "image/get/물망초 획득창.png",
+	},
+
+	{
+		"type" : "getting",
+		"img" : "image/background/검정.png",
+		"image" : "image/get/물망초 설명.png"
+	}
+]
