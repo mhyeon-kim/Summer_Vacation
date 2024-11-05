@@ -38,17 +38,17 @@
     </td>
       <td>
       <a href="https://github.com/masIImaro ">                 
-          <img src="https://avatars.githubusercontent.com/masIImaro" width="160" float="center" />            
+          <img src="https://avatars.githubusercontent.com/masIImaro" width="160" />            
       </a>
     </td>
     <td>
       <a href="https://github.com/jjuj99 ">                 
-          <img src="https://avatars.githubusercontent.com/jjuj99" width="160" float="center" />            
+          <img src="https://avatars.githubusercontent.com/jjuj99" width="160" />            
       </a>
     </td>
         <td>
       <a href="https://github.com/kthrc ">                 
-          <img src="https://avatars.githubusercontent.com/kthrc " width="160" float="center" />            
+          <img src="https://avatars.githubusercontent.com/kthrc " width="160" />            
       </a>
     </td>
   </tr>
@@ -60,8 +60,8 @@
     <td align="center">최유정</td>
   </tr>
   <tr>
-    <td align="center">시작/종료창, 대화창 개발<br/> 화면 연결 담당</td>
-    <td align="center">숨은 그림 찾기 <br/>미니게임 개발 담당</td>
+    <td align="center">시작/종료창, 대화창 개발 및 화면 연결 담당</td>
+    <td align="center">숨은 그림 찾기 미니게임 개발 담당</td>
     <td align="center">충치 제거 미니게임 개발 담당</td>
     <td align="center">구름 오르기 미니게임 개발 담당</td>
     <td align="center">속담 맞추기 미니게임 개발 담당</td>
