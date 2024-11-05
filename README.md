@@ -9,7 +9,20 @@
 
 <br/><br/><br/>
 <div>
-  
+  <div>
+    ![main](https://github.com/user-attachments/assets/4ded5e41-629c-4817-9456-9d2e191bfdf9)
+    - 게임 시작화면
+    ![story](https://github.com/user-attachments/assets/f66aa667-9076-4474-b92a-b2cefc6dc311)
+    - 게임 대화창
+    ![mini1](https://github.com/user-attachments/assets/a780f6ff-ec53-445d-8ba9-c0ed9900bfcb)
+    - 충치 제거 미니게임
+    <img width="526" alt="mini2" src="https://github.com/user-attachments/assets/ca8e2ed0-6134-48ad-9c45-d7048d619b76">
+    - 숨은 그림 찾기 미니게임
+    ![mini3](https://github.com/user-attachments/assets/ebf66a1c-6666-4aed-8456-0a2662ac249b)
+    - 속담 맞추기 미니게임
+    ![mini4](https://github.com/user-attachments/assets/54940cb3-5f48-4a7b-a82a-55361ed2c718)
+    - 구름 오르기 미니게임
+  </div>
 </div>
 <br/><br/><br/>
 
@@ -50,7 +63,7 @@
     <td align="center">최유정</td>
   </tr>
   <tr>
-    <td align="center">시작/종료창, 대화창 개발, 화면 연결 담당</td>
+    <td align="center">시작/종료창, 대화창 개발 및 화면 연결 담당</td>
     <td align="center">숨은 그림 찾기 미니게임 개발 담당</td>
     <td align="center">충치 제거 미니게임 개발 담당</td>
     <td align="center">구름 오르기 미니게임 개발 담당</td>
