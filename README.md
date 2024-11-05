@@ -7,9 +7,8 @@
 - 미니게임 4개와 대화창으로 구성된 스토리형 어드벤처 미니게임.
 - 각각의 수호신 4명과 미니게임을 진행하며 스토리의 비밀을 찾는 구성.
 
-<br/>
 <div>
-    <h6>1. 게임 시작 화면</h6>
+    <h5>1. 게임 시작 화면</h5>
     <img width="526" alt="main" src="https://github.com/user-attachments/assets/4ded5e41-629c-4817-9456-9d2e191bfdf9">
     <h6>2. 게임 대화창</h6>
     <img width="526" alt="story" src="https://github.com/user-attachments/assets/f66aa667-9076-4474-b92a-b2cefc6dc311">
@@ -48,7 +47,7 @@
     </td>
     <td>
       <a href="https://github.com/jjuj99 ">                 
-          <img src="https://avatars.githubusercontent.com/jjuj99" width="160" />            
+          <img src="https://avatars.githubusercontent.com/jjuj99" width="160" align="center" />            
       </a>
     </td>
         <td>
@@ -65,8 +64,8 @@
     <td align="center">최유정</td>
   </tr>
   <tr>
-    <td align="center">시작/종료창, 대화창 개발, <br/> 화면 연결 담당</td>
-    <td align="center">숨은 그림 찾기 <br/> 미니게임 개발 담당</td>
+    <td align="center">시작/종료창, 대화창 개발<br/> 화면 연결 담당</td>
+    <td align="center">숨은 그림 찾기 <br/>미니게임 개발 담당</td>
     <td align="center">충치 제거 미니게임 개발 담당</td>
     <td align="center">구름 오르기 미니게임 개발 담당</td>
     <td align="center">속담 맞추기 미니게임 개발 담당</td>
