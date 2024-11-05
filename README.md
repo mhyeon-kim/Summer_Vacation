@@ -9,20 +9,18 @@
 
 <br/><br/><br/>
 <div>
-  <div>
-    ![main](https://github.com/user-attachments/assets/4ded5e41-629c-4817-9456-9d2e191bfdf9)
+    <img width="526" alt="main" src="https://github.com/user-attachments/assets/4ded5e41-629c-4817-9456-9d2e191bfdf9">
     - 게임 시작화면
-    ![story](https://github.com/user-attachments/assets/f66aa667-9076-4474-b92a-b2cefc6dc311)
+    <img width="526" alt="story" src="https://github.com/user-attachments/assets/f66aa667-9076-4474-b92a-b2cefc6dc311">
     - 게임 대화창
-    ![mini1](https://github.com/user-attachments/assets/a780f6ff-ec53-445d-8ba9-c0ed9900bfcb)
+    <img width="526" alt="mini1" src="https://github.com/user-attachments/assets/a780f6ff-ec53-445d-8ba9-c0ed9900bfcb">
     - 충치 제거 미니게임
     <img width="526" alt="mini2" src="https://github.com/user-attachments/assets/ca8e2ed0-6134-48ad-9c45-d7048d619b76">
     - 숨은 그림 찾기 미니게임
-    ![mini3](https://github.com/user-attachments/assets/ebf66a1c-6666-4aed-8456-0a2662ac249b)
+    <img width="526" alt="mini3" src="https://github.com/user-attachments/assets/ebf66a1c-6666-4aed-8456-0a2662ac249b">
     - 속담 맞추기 미니게임
-    ![mini4](https://github.com/user-attachments/assets/54940cb3-5f48-4a7b-a82a-55361ed2c718)
+    <img width="526" alt="mini4" src="https://github.com/user-attachments/assets/54940cb3-5f48-4a7b-a82a-55361ed2c718">
     - 구름 오르기 미니게임
-  </div>
 </div>
 <br/><br/><br/>
 
